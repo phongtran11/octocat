@@ -1,4 +1,3 @@
-# octocat
 # 👋 Hi, I’m Phong Tran
 Highly skilled and innovative software development professional with 3 years of hands-on experience in web application development.
 Focused and efficient learner with practical expertise in modern apps, seeking a full stack developer position with intellect.
