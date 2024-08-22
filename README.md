@@ -15,7 +15,6 @@ Full stack developer or Technical Architect specializing in website development!
 - HTML
 - CSS
 - React.js
-- React Native
 - Node.js
 - Vue.js
 - Angular.js
